@@ -37,6 +37,8 @@
 
   <img align="left" alt="lexx54's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lexx54&show_icons=true&hide_border=true" />
 
+[![Lexx54's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexx54)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: http://codelexx.mywebcommunity.org/
 [twitter]: http://twitter.com/lexx54
 [linkedin]: https://www.linkedin.com/in/lexington-chaparro-01b521193/
