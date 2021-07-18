@@ -1,5 +1,8 @@
 ### Hello There My name is Lexington Aka [CodeLexx][website]
 
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://codelexx.mywebcommunity.org/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/code_lexx)
+
 ## I'm a Developer, and Teacher!!
 
 - 🔭 I just launched my first course:!
