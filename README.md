@@ -1,8 +1,5 @@
 ### Hello There My name is Lexington Aka [CodeLexx][website]
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://codelexx.mywebcommunity.org/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/code_lexx?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/code_lexx)
-
 ## I'm a Developer, and Teacher!!
 
 - 🔭 I just launched my first course:!
@@ -35,7 +32,7 @@
 
 <br/>
 
-  <img align="left" alt="lexx54's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lexx54&show_icons=true&hide_border=true" />
+<img align="left" alt="lexx54's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=lexx54&show_icons=true&hide_border=true" />
 
 [![Lexx54's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexx54)](https://github.com/anuraghazra/github-readme-stats)
 
