@@ -33,6 +33,9 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexx54)](https://github.com/lexx54/github-readme-stats)
+
 [website]: http://codelexx.mywebcommunity.org/
 [twitter]: http://twitter.com/lexx54
 [linkedin]: https://www.linkedin.com/in/lexington-chaparro-01b521193/
