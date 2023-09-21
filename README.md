@@ -2,11 +2,10 @@
 
 ## I'm a Developer, and Teacher!!
 
-- 🔭 I just launched my first course:!
-- 🌱 I’m currently improving My MERN stack Skills 🤣
+- 🌱 I’m currently improving My Typescript and Next Skills 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to work out and listen to music
+- 🥅 2023 Goals: Learn and implement design patterns
+- ⚡ Fun fact: I love to work out and dance salsa
 
 ### Connect WIth me
 
