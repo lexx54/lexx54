@@ -13,7 +13,6 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 ### Languages and Tools:
 
@@ -34,9 +33,8 @@
 
 [![Lexx54's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexx54)](https://github.com/anuraghazra/github-readme-stats)
 
-[website]: http://codelexx.mywebcommunity.org/
+## [website]: http://codelexx.mywebcommunity.org/
 [twitter]: http://twitter.com/lexx54
-[linkedin]: https://www.linkedin.com/in/lexington-chaparro-01b521193/
+[linkedin]: https://www.linkedin.com/in/codelexx/
 [youtube]: https://www.youtube.com/channel/UCyI1VFwSa44zxMZ36016obA
 
-[instagram]:
